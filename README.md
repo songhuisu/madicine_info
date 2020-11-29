@@ -1,1 +1,1 @@
-# madicine_info
+# medicine_info
